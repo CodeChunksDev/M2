@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  padding: 2cm;
+  height: 27.97cm;
+  width: 21.59cm;
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 74%,
+    rgba(112, 124, 242, 1) 100%
+  );
+}
+
+h2,
+h3,
+h4 {
+  text-align: center;
+  margin-top: 0.25cm;
+  margin-bottom: 0.25cm;
+}
+
+header {
+  margin-bottom: 0.5cm;
+  align-items: center;
+}
+
+header img {
+  display: block;
+  margin: auto;
+}
+
+section {
+  margin-top: 1cm;
+  margin-bottom: 0.5cm;
+  text-align: justify;
+}
+
+.experiencia-empresa,
+.estudios {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: aliceblue;
+  margin-top: 0.5cm;
+}
+
+.empresa,
+.cargo {
+  text-decoration: underline darkblue;
+}
+
+.detalle-empresa {
+  margin-top: 0.25cm;
+  text-align: justify;
+}
+
+.experiencia-cargo {
+  margin: 0.25cm 0cm;
+  text-align: justify;
+}
+
+.logros,
+.logros li {
+  margin-left: 0.5cm;
+  text-align: justify;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 0.25cm;
+}
+
+table,
+td,
+th {
+  border: 1px solid #333;
+  padding: 0.1cm 0.1cm;
+  border-radius: 5%;
+}
+
+caption {
+  background-color: aliceblue;
+  color: black;
+}
+
+ul {
+  list-style-image: url(../img/clipboard-check.svg);
+}
+
+footer p {
+  text-align: center;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}

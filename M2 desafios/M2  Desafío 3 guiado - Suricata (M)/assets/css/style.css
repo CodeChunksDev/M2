@@ -1,0 +1,74 @@
+body{
+    font-family: Open Sans;
+    
+}
+
+.navbar{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.navbar img{
+    width: 180px;
+}
+
+.navbar .nav-link{
+    color: rgb(255, 255, 255);
+}
+
+.bg-pink {
+    background-color: #ff69b4;
+  }
+
+section{
+    display: flex;
+}
+
+h1{
+    font-size: 5vh;
+    margin: 30px;
+    color: #707070;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+
+footer{
+    margin-top: 40px;
+}
+
+footer img{
+    width: 50px;
+    margin: 50px;
+}
+
+.fa-brands{
+    color: #ffffff;
+    font-size: 80px;
+    padding: 5px
+    
+}
+
+footer .iconos{
+    background-color: #17A2B8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 200px;
+  
+}
+
+.iconos p{
+    font-size: 5vh;
+    margin: 30px;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+

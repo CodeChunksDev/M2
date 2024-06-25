@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(2, 43, 132);
+}
+
+.titulo{
+    background-color: rgba(249, 255, 170, 0.726);
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h1:hover {
+    color: black;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+#marca {
+  
+    font-size: 1.5em;
+    text-align: right;
+    color: #ffff00;
+}
+
+#marca:hover {
+    background-color: rgba(39, 59, 241, 0.703);
+}

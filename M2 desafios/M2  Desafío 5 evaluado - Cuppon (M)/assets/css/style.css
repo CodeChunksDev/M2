@@ -1,0 +1,23 @@
+body{
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    font-weight: light;
+}
+
+
+.card-footer{
+    font-size: 20px;
+    
+}
+
+#contact{
+    height: 241px;
+}
+
+
+
+.btn{
+    margin: 5px;
+}
+
